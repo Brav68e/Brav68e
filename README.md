@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=120&section=header&text=Thomas%20Dannequin&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027&height=120&section=header&text=Thomas%20Dannequin&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=23272A00&center=true&vCenter=true&width=700&lines=Ing%C3%A9nieur+IT;Syst%C3%A8mes+%26+R%C3%A9seau;Automatisation+%26+DevOps" />
 
