@@ -25,7 +25,7 @@
 
 <div>
 <strong>Développement</strong><br/>
-<img src="https://skillicons.dev/icons?i=python,php,symfony,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=symfony,mysql,react,next&theme=dark" />
 </div>
 
 </div>
